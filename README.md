@@ -1,2 +1,2 @@
 # The-Cookie-Article
-The Cookie Article will mostly make sence.
+The Cookie Article will mostly make sense.
